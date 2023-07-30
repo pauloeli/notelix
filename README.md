@@ -4,6 +4,8 @@
 
 An open source web note taking / highlighter software (with backend).
 
+**About this fork:** In this fork I made some improvements for local use, ignoring encryption and embedded use issues.
+
 ![demo](design/demo.gif)
 
 Notelix features:
